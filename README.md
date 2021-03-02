@@ -4,6 +4,7 @@ Provides you with many practical examples so that you can really see how deep le
 
 ### References
 [The Best Logistic Regression in Python: Conquer Your Fear](https://www.alardosa.com/python-logistic-regression/)
+
 [Deep Learning Prerequisites: Logistic Regression in Python](https://www.udemy.com/course/data-science-logistic-regression-in-python/)
 
 ## Contact
